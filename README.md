@@ -43,8 +43,8 @@ The model is trained to detect 5 primary types of fabric defects:
 
 ### Clone the Repository
 
-- git clone https://github.com/your-username/your-repo-name.gitcd your-repo-name
-- 
+- git clone repo
+  
 ### Install Dependencies
   
 - Create a virtual environment and install the required libraries (requirements.txt)
