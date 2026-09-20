@@ -1,5 +1,5 @@
 # 🧵 Fabric Defect Detection System using YOLOv8
-##📌 Overview
+## 📌 Overview
 - This project is a real-time fabric defect detection system built using YOLOv8. The model was trained on self-collected and annotated raw fabric images gathered during an on-site industry visit. It achieves a 95% F1-score across both images and videos.
 
 - The system is deployed via an interactive Streamlit interface that supports both uploaded files and live webcam inference. When a defect is detected, it triggers an ESP8266-based hardware alert via HTTP, activating live LED/alarm indicators. All detection results are automatically logged into a CSV file with timestamps, defect types, and frequencies.
